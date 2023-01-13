@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+Introduction
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Introduction
 
 Social Profiles for Connecting
 
