@@ -13,4 +13,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Introduction
+
+Social Profiles for Connecting
+
+Technical Skills
+
+Certifications
+
+Projects
+
+Internships
+
+Publications
+
+Previous Experience
+
 -->
+
+
